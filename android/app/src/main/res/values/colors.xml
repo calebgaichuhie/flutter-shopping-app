@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores principales de la aplicación -->
+    <color name="primary_color">#FFB08C47</color>
+    <color name="primary_dark">#FF996F3B</color>
+    <color name="accent_color">#FF6C675E</color>
+    
+    <!-- Colores de fondo -->
+    <color name="background_dark">#FF121212</color>
+    <color name="surface_dark">#FF1E1E1E</color>
+    <color name="splash_background">#FF121212</color>
+    
+    <!-- Colores de estado -->
+    <color name="success">#FF4CAF50</color>
+    <color name="error">#FFCF6679</color>
+    <color name="warning">#FFFF9800</color>
+    <color name="info">#FF2196F3</color>
+    
+    <!-- Colores de texto -->
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#99FFFFFF</color>
+    <color name="text_disabled">#61FFFFFF</color>
+</resources>
